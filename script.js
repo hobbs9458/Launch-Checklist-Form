@@ -99,7 +99,6 @@ launchForm.addEventListener('submit', (e) => {
   } 
 
   faultyItems.style.visibility = "visible";
-  
-  e.preventDefault();
+
 });
 
